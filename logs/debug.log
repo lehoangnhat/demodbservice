@@ -1,0 +1,15 @@
+error: 17/07/2018 22:09:17: DB SERVICE -  CONNECT DB ERROR
+error: 17/07/2018 22:10:43: DB SERVICE -  CONNECT DB ERROR
+debug: 17/07/2018 22:10:43: MongoError: Authentication failed.
+error: 17/07/2018 22:11:12: DB SERVICE -  CONNECT DB ERROR
+debug: 17/07/2018 22:11:12: MongoError: Authentication failed.
+error: 17/07/2018 22:15:14: DB SERVICE -  CONNECT DB ERROR
+debug: 17/07/2018 22:15:14: MongoNetworkError: failed to connect to server [ds141434.mlab.com:41434] on first connect [MongoNetworkError: connect ETIMEDOUT 35.188.8.12:41434]
+error: 23/10/2018 22:20:20: DB SERVICE - READ ERROR
+debug: 23/10/2018 22:20:20: MongoError: Missing expected field "$search"
+error: 23/10/2018 22:20:28: DB SERVICE - READ ERROR
+debug: 23/10/2018 22:20:28: MongoError: Missing expected field "$search"
+error: 23/10/2018 22:21:36: DB SERVICE - READ ERROR
+debug: 23/10/2018 22:21:36: MongoError: Missing expected field "$search"
+error: 23/10/2018 22:23:07: DB SERVICE - READ ERROR
+debug: 23/10/2018 22:23:07: MongoError: Missing expected field "$search"
